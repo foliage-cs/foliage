@@ -34,14 +34,76 @@ all of the color combinations follow WCAG AA standards
 ## examples
 [include some cool examples here once i'm done making shit]
 
+## ports
+
+### terminal emulators
+ - [ ] kitty
+ - [ ] alacritty
+ - [ ] foot
+ - [ ] xterm
+ - [ ] cool-retro-term
+ - [ ] ghostty
+
+### window managers
+ - [ ] hyprland
+ - [ ] sway
+ - [ ] i3wm
+ - [ ] awesomewm
+ - [ ] bspwm
+
+### application launchers
+ - [ ] rofi
+ - [ ] wofi
+
+### ext editors
+ - [ ] zed
+ - [ ] vscode
+ - [ ] vim
+ - [ ] neovim
+ - [ ] helix
+
+### web browsers
+ - [ ] firefox
+
+### search engines
+ - [ ] startpage
+ - [ ] duckduckgo
+ - [ ] google
+
+### system monitors
+ - [ ] btop++
+ - [ ] cava
+
+### bars
+ - [ ] waybar
+ - [ ] eww (coming soon)
+
+### fetches
+ - [ ] nerdfetch
+ - [ ] flowetch
+
+### wallpapers
+ - [ ] foliage wallpaper set
+ - [ ] wallpaper conversion util
+
+### prompts
+ - [ ] starship
+
+### others
+ - [ ] saxophone-dev's dotfiles
+
+just create an issue in this repository
+
 ## license
 everything is under the CC0 license
 
 ## contributing
 if you'd like a theme added, you can pretty much create an issue on this repo and it'll probably be created within a day max unless it's something gigantic
 
+contributing by yourself is always an option though - just make a pull request
+
 ## credits
  - the original everblush colorscheme for inspiration and being the base for most of the colors
 
 ## license
-The Foliage Color Scheme, released under the pseudonymn 'saxophone', is licensed under the CC0 1.0 Universal license. To view a copy of this license, visit https://creativecommons.org/publicdomain/zero/1.0/
+The Foliage Color Scheme, released under the pseudonymn 'saxophone', is licensed underz the CC0 1.0 Universal license. To view a copy of this license, visit https://creativecommons.org/publicdomain/zero/1.0/
