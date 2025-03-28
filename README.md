@@ -4,24 +4,21 @@
 a pleasant green-blue colorscheme for anybody to use
 
 ## colors
-### background
-- `background 0`: #0a1114
-- `background 1`: #141b1b
-- `background 2`: #232a2a
-
-### foreground
-- `foreground 0`: #eeeeee
-- `foreground 1`: #d7dada
-- `foreground 2`: #849494
-
-### accent colors
-- `red`: #e57474
-- `yellow`: #e5c76b
-- `green`: #8ccf7e
-- `blue`: #67b0e8
-- `purple`: #9c88d7
-- `teal`: #7dcec1
-- `pink`: #e273bc
+| preview                          | name          | hex          |
+|----------------------------------|---------------|--------------|
+| ![background 0](assets/bg0.png)  | background 0  | #0a1114      |
+| ![background 1](assets/bg1.png)  | background 1  | #141b1b      |
+| ![background 2](assets/bg2.png)  | background 2  | #232a2a      |
+| ![foreground 0](assets/fg0.png)  | foreground 0  | #eeeeee      |
+| ![foreground 1](assets/fg1.png)  | foreground 1  | #d7dada      |
+| ![foreground 2](assets/fg2.png)  | foreground 2  | #849494      |
+| ![red](assets/red.png)           | red           | #e57474      |
+| ![yellow](assets/yellow.png)     | yellow        | #e5c76b      |
+| ![green](assets/green.png)       | green         | #8ccf7e      |
+| ![blue](assets/blue.png)         | blue          | #67b0e8      |
+| ![purple](assets/purple.png)     | purple        | #9c88d7      |
+| ![teal](assets/teal.png)         | teal          | #7dcec1      |
+| ![pink](assets/pink.png)         | pink          | #e273bc      |
 
 ## how 2 use
 - **main stuff**: use the 0th colors for main backgrounds and text
@@ -93,9 +90,6 @@ all of the color combinations follow WCAG AA standards
  - [ ] saxophone-dev's dotfiles
 
 just create an issue in this repository
-
-## license
-everything is under the CC0 license
 
 ## contributing
 if you'd like a theme added, you can pretty much create an issue on this repo and it'll probably be created within a day max unless it's something gigantic
