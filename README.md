@@ -100,4 +100,4 @@ contributing by yourself is always an option though - just make a pull request
  - the original everblush colorscheme for inspiration and being the base for most of the colors
 
 ## license
-The Foliage Color Scheme, released under the pseudonymn 'saxophone', is licensed underz the CC0 1.0 Universal license. To view a copy of this license, visit https://creativecommons.org/publicdomain/zero/1.0/
+The Foliage Color Scheme, released under the pseudonym 'saxophone', is licensed under the CC0 1.0 Universal license. To view a copy of this license, visit https://creativecommons.org/publicdomain/zero/1.0/
