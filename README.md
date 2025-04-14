@@ -1,3 +1,6 @@
+# WORK ON FOLIAGE HAS BEEN TEMPORARILY PAUSED
+ - i have exams 😭 gimme until like the end of may 2025
+
 # the foliage colorscheme
 
 ## what is this?
